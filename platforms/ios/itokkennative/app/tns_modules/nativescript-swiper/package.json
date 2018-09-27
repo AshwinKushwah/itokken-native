@@ -1,0 +1,60 @@
+{
+  "_from": "nativescript-swiper",
+  "_id": "nativescript-swiper@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha1-+cCOO3+oPZBFjMN6amq9IYw3hhI=",
+  "_location": "/nativescript-swiper",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "nativescript-swiper",
+    "name": "nativescript-swiper",
+    "escapedName": "nativescript-swiper",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-swiper/-/nativescript-swiper-0.1.0.tgz",
+  "_shasum": "f9c08e3b7fa83d90458cc37a6a6abd218c378612",
+  "_spec": "nativescript-swiper",
+  "_where": "/Users/kushwah/Desktop/itokken-native",
+  "author": {
+    "name": "Yuxu Wu",
+    "email": "stephenimwalson@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/imwalson/nativescript-swiper/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "[![npm](https://img.shields.io/npm/v/nativescript-swiper.svg)](https://www.npmjs.com/package/nativescript-swiper)\r [![npm](https://img.shields.io/npm/dt/nativescript-swiper.svg?label=npm%20downloads)](https://www.npmjs.com/package/nativescript-swiper)",
+  "homepage": "https://github.com/imwalson/nativescript-swiper",
+  "keywords": [
+    "nativescript",
+    "swiper",
+    "slides",
+    "slide",
+    "swipe slides"
+  ],
+  "license": "MIT",
+  "main": "nativescript-swiper.js",
+  "name": "nativescript-swiper",
+  "nativescript": {
+    "platforms": {
+      "ios": "2.0.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imwalson/nativescript-swiper.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.0"
+}

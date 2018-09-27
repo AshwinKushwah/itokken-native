@@ -1,0 +1,20 @@
+{
+	"time": "Thu Sep 27 2018 21:07:58 GMT+0530 (IST)",
+	"nativePlatformStatus": "3",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": false,
+	"projectFileHash": "c8544540aa3f68bc34981d68e7e8a7a3571ac0c52c6fca88cccb694a9e9d721d",
+	"changesRequireBuildTime": "Thu Sep 27 2018 21:05:40 GMT+0530 (IST)",
+	"appFilesHashes": {
+		"/Users/kushwah/Desktop/itokken-native/app/.DS_Store": "ceac23f9be5d736ec615ec11533e1c4a124832cc",
+		"/Users/kushwah/Desktop/itokken-native/app/app-root.xml": "900a386cb2d8abc9573413eb3aff45448dcd3608",
+		"/Users/kushwah/Desktop/itokken-native/app/app.css": "6b35cf7fc669764bd611ef9fe3164457246cfaed",
+		"/Users/kushwah/Desktop/itokken-native/app/app.js": "b99b8400f3d679ef0e4da0ccd015592281d4eae0",
+		"/Users/kushwah/Desktop/itokken-native/app/main-page.js": "e3dfd3fc75a4d41d3c3ea69bbfc2e52159919e19",
+		"/Users/kushwah/Desktop/itokken-native/app/main-page.xml": "dadb79414737be842940881ad61a8bed20080077",
+		"/Users/kushwah/Desktop/itokken-native/app/main-view-model.js": "f977a52b4fb31fe984415623f7597e914c24750d",
+		"/Users/kushwah/Desktop/itokken-native/app/package.json": "554a1e7b09cfa1663c75683765118999cb11411a",
+		"/Users/kushwah/Desktop/itokken-native/app/references.d.ts": "c83a3304d98c2586359871f5d8ac10c8aa8af848"
+	}
+}
